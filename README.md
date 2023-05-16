@@ -27,8 +27,11 @@ These projects represent a small glimpse into my ongoing work, and I am continuo
 I am always open to connecting with fellow developers, researchers, or anyone interested in discussing technology-related topics. You can reach me through the following channels:
 
 Email: Almog Zion Boaron
+
 LinkedIn: Almog Boaron
+
 GitHub: almogboaron
+
 Feel free to reach out if you have any questions, project proposals, or opportunities for collaboration. I am looking forward to engaging with the vibrant GitHub community and contributing to the advancement of computer science.
 
 Thank you for visiting my profile, and I hope you find my projects and contributions insightful!
