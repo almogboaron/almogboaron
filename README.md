@@ -26,7 +26,7 @@ These projects represent a small glimpse into my ongoing work, and I am continuo
 ## Contact Information
 I am always open to connecting with fellow developers, researchers, or anyone interested in discussing technology-related topics. You can reach me through the following channels:
 
-Email: Almog Zion Boaron
+Email: AlmogZionBoaron@gmail.com
 
 LinkedIn: Almog Boaron
 
